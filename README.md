@@ -4,9 +4,10 @@ A full-stack Todo application built using the MERN stack with secure backend dep
 
 🔗 Live Demo
 
-Frontend: https://your-vercel-link
+Frontend: https://vercel.com/parthkulkarni73s-projects/todo-mern-app
 
-Backend API: https://your-render-link
+
+Backend API: https://todo-mern-backend-2474.onrender.com
 
 🛠 Tech Stack
 
